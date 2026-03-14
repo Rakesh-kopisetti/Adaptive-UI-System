@@ -1,0 +1,10 @@
+{
+  "baselineFontSize": 14,
+  "scaleFactors": {
+    "compact": 1.0,
+    "medium": 1.15,
+    "expanded": 1.3
+  },
+  "minimumFontSize": 12,
+  "maximumFontSize": 32
+}

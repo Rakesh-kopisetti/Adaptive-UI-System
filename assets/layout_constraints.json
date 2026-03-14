@@ -1,0 +1,40 @@
+{
+  "constraints": [
+    {
+      "widgetId": "header",
+      "constraint": "centerX",
+      "targetId": "parent",
+      "margin": 0
+    },
+    {
+      "widgetId": "header",
+      "constraint": "topToTopOf",
+      "targetId": "parent",
+      "margin": 24
+    },
+    {
+      "widgetId": "content",
+      "constraint": "centerX",
+      "targetId": "parent",
+      "margin": 0
+    },
+    {
+      "widgetId": "content",
+      "constraint": "centerY",
+      "targetId": "parent",
+      "margin": 0
+    },
+    {
+      "widgetId": "footer",
+      "constraint": "centerX",
+      "targetId": "parent",
+      "margin": 0
+    },
+    {
+      "widgetId": "footer",
+      "constraint": "bottomToBottomOf",
+      "targetId": "parent",
+      "margin": 24
+    }
+  ]
+}

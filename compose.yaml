@@ -1,0 +1,7 @@
+services:
+  adaptive-ui-system:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8091:80"
